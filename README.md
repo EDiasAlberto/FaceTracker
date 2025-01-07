@@ -10,6 +10,7 @@
 + 2.4GHz Network
 
 > Python requirements in requirements.txt
+
 > Arduino Requirements are at the top of esp32.ino
 
 ----
